@@ -21,8 +21,6 @@ Most of what I know I learned by building real products and reading other people
 
 **[MaYpiVac](https://github.com/ErickSebas/maypivac)** — Cross-platform app for rabies vaccination management and pet registration. 🏆 Won first place in the "CIT Innovación" research award at Universidad Privada del Valle. *Flutter + MySQL.*
 
-**[YoloHago](https://github.com/ErickSebas/yolohago)** — Mobile marketplace for on-demand services, currently in development. *React Native + NestJS.*
-
 ---
 
 ### Reach me
