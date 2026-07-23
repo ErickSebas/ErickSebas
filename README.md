@@ -19,7 +19,7 @@ Most of what I know I learned by building real products and reading other people
 
 **[SnapDish](https://github.com/ErickSebas/snapdish)** — Restaurant management app published on Google Play. Handles products, orders, reservations, and staff. *React Native + NestJS.*
 
-**[MaYpiVac](https://github.com/ErickSebas/maypivac)** — Cross-platform app for rabies vaccination management and pet registration. 🏆 Won first place in the "CIT Innovación" research award at Universidad Privada del Valle. *Flutter + MySQL.*
+**[MaYpiVac](https://github.com/ErickSebas/maypivac)** — Cross-platform app for rabies vaccination management and pet registration. Won first place in the "CIT Innovación" research award at Universidad Privada del Valle. *Flutter + MySQL.*
 
 ---
 
