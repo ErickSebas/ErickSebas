@@ -19,7 +19,7 @@ Most of what I know I learned by building real products and reading other people
 
 **[Hair Salon Booking System](https://github.com/ErickSebas/booking-reservations)** — Full-stack booking system with an authenticated admin panel and a public reservation page (no login for clients). Slot-availability logic, JWT auth, and rate-limited public endpoints. *NestJS + React + MySQL.*
 
-**[SnapDish](https://github.com/ErickSebas/snapdish)** — Restaurant management app published on Google Play. Handles products, orders, reservations, and staff. *React Native + NestJS.*
+**[SnapDish](https://github.com/ErickSebas/SnapPrueba)** — Restaurant management app published on Google Play. Handles products, orders, reservations, and staff. *React Native + NestJS.*
 
 ---
 
